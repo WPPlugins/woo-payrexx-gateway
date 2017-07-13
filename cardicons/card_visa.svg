@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="31.75mm" height="21.167mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 31.75 21.167"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ version="1.1"
+ xmlns:cc="http://creativecommons.org/ns#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#C5C6C6;stroke-width:0.0762}
+    .fil0 {fill:none}
+    .fil1 {fill:#FEFEFE}
+    .fil2 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="6.2207" y1="3.3941" x2="25.5293" y2="17.773">
+   <stop offset="0" style="stop-color:#1C1E57"/>
+   <stop offset="1" style="stop-color:#132A90"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g>
+   <path class="fil0 str0" d="M1.0583 0.0002l29.6334 0c0.5843,0 1.0582,0.4739 1.0582,1.0583l0.0001 19.05c-0.0001,0.5842 -0.474,1.0581 -1.0584,1.0581l-29.6333 0.0002c-0.5843,-0.0002 -1.0582,-0.4741 -1.0582,-1.0585l-0.0001 -19.0498c0.0001,-0.5844 0.474,-1.0583 1.0584,-1.0583z"/>
+   <path id="1" class="fil1" d="M1.0583 0.0002l29.6334 0c0.5843,0 1.0582,0.4739 1.0582,1.0583l0.0001 19.05c-0.0001,0.5842 -0.474,1.0581 -1.0584,1.0581l-29.6333 0.0002c-0.5843,-0.0002 -1.0582,-0.4741 -1.0582,-1.0585l-0.0001 -19.0498c0.0001,-0.5844 0.474,-1.0583 1.0584,-1.0583z"/>
+  </g>
+  <path class="fil2" d="M14.2674 14.3748l-1.9726 0 1.233 -7.5773 1.9727 0 -1.2331 7.5773zm-3.6322 -7.5773l-1.8807 5.2116 -0.2225 -1.1223 0.0002 0.0004 -0.6639 -3.4072c0,0 -0.0801,-0.6825 -0.9358,-0.6825l-3.1089 0 -0.0364 0.1283c0,0 0.951,0.1977 2.0634,0.8664l1.7139 6.5826 2.0553 0 3.1386 -7.5773 -2.1232 0zm13.3455 4.8969l1.0368 -2.8356 0.5831 2.8356 -1.6199 0zm2.1708 2.6804l1.8113 0 -1.5793 -7.5773 -1.586 0c-0.7324,0 -0.9106,0.5647 -0.9106,0.5647l-2.9419 7.0126 2.056 0 0.4114 -1.1255 2.5078 0 0.2313 1.1255zm-5.0524 -5.7551l0.2815 -1.6274c0,0 -0.8688,-0.3303 -1.7743,-0.3303 -0.9789,-0.0001 -3.3036,0.4281 -3.3036,2.5083 0,1.9577 2.7285,1.9822 2.7285,3.01 0,1.0278 -2.4472,0.8441 -3.2547,0.1957l-0.2936 1.701c0,0 0.8807,0.4282 2.2269,0.4282 1.3459,0 3.3771,-0.6973 3.3771,-2.5941 0,-1.97 -2.753,-2.1535 -2.753,-3.0099 0,-0.8567 1.9211,-0.7466 2.7652,-0.2815z"/>
+ </g>
+</svg>
